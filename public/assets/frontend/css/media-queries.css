@@ -1,0 +1,315 @@
+@media only screen and (max-device-width: 768px) {
+    .flex-directionSmall {
+        flex-direction: column;
+    }
+    .flex-directionReverseSmall {
+        flex-direction: column-reverse;
+    }
+    .mw-100-P {
+        max-width: 100%;
+    }
+    .w_Sm_100 {
+        width: 100% !important;
+    }
+    .padding_0 {
+        padding: 0px !important;
+    }
+    .rowTimeHours {
+        flex-wrap: nowrap !important;
+        margin: 0px !important;
+    }
+    .whiteSpaceNoWrap {
+        white-space: nowrap;
+    }
+    .comment_SectionDate{
+        margin: auto !important;
+    }
+    .blogComment1 {
+        padding: 18px 0px 18px 0px;
+    }
+    .text_center {
+        text-align: center !important;
+    }
+    .indexMobileReverse {
+        flex-direction: column-reverse;
+    }
+    .indexMobileReverse div {
+        padding-top: 12px !important;
+    }
+    .learnmeliveiosAndroid {
+        font-size: 19px !important;
+        white-space: nowrap !important;
+    }
+    .border_Sm-0 {
+        border: 0px !important;
+    }
+    #time {
+        padding-bottom: 8px;
+    }
+    .textRight {
+        margin-top: 20px;
+        height: 370px;
+        border-radius: 14px;
+        width: 100%;
+    }
+    .bgEventsBanner {
+        height: 900px;
+    }
+    .ticketsButton-price {
+        width: 77%;
+    }
+    .nav-bg-img,
+    .padding_dashboard {
+        padding: 0px 15px 0px 15px !important;
+    }
+    .padding_Prof {
+        padding: 0px 1.7rem 0px 1.7rem !important;
+    }
+    .login_Main_padding {
+        padding: 0px 30px 0px 30px !important;
+    }
+    .downloadForAndroid {
+        position: relative;
+        top: 9px;
+    }
+    .paddding-top-20 {
+        padding-top: 20px;
+    }
+    .content_commentSection{
+        justify-content: center !important;
+    }
+    .alignItemsStart{
+        align-items: start !important;
+    }
+    .flw{
+        flex-wrap: wrap !important;
+    }
+    .Comment{
+        width: 100% !important;
+    }
+    .img_commentSection{
+        text-align: center !important;
+    }
+    .pt-pb-15{
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .blogsRightBar{
+        width: 100% !important;
+    }
+    .comment_SectionName{
+        text-align: center;
+        border: 0px !important;
+    }
+    .perso_Tab {
+        margin: 15px 0px 0px 0px !important;
+    }
+    .bg-register_img2 {
+        height: 57.5rem !important;
+        position: absolute !important;
+        top: 78% !important;
+    }
+    .bg-linear-gradient {
+        height: 345px !important;
+    }
+    .form_input-Fields {
+        padding: 0.375rem 0.75rem;
+        font-size: 1.8rem;
+        line-height: 2.5;
+    }
+    .after_input-Forg_rem-fS {
+        font-size: 1.2rem !important;
+    }
+    .topSellingText{
+        margin-bottom: 17px;
+    }
+    .w-220px {
+        width: 151px;
+    }
+    .heightFifty{
+        height: 50px;
+    }
+    .w-43 {
+        width: 100% !important;
+    }
+    .heightFifty{
+        height: 50px;
+    }
+    .w-90 {
+        width: 72% !important;
+    }
+    .margin-bottom {
+        margin-bottom: 1.5rem !important;
+    }
+    .topSelling {
+        height: 900px !important;
+    }
+    .steps fieldset {
+        width: 100% !important;
+    }
+    .w_100 {
+        width: 100% !important;
+    }
+    .bannerInerrfSize {
+        font-size: 1.25rem !important;
+    }
+    .mar_Sm-Auto {
+        margin: auto !important;
+    }
+    .txt_Align_Center {
+        text-align: center !important;
+    }
+    .profile-Sidebar {
+        margin-top: 20px !important;
+    }
+    .padd-vertical {
+        padding: 0px 15px 0 15px !important;
+    }
+    .padd-vertical_1 {
+        padding: 0px 30px 0 30px !important;
+    }
+    .d-sm-none {
+        display: none !important;
+    }
+    .padding-top {
+        margin-top: 20px !important;
+    }
+    .carouSel_Column {
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+    .carousel-control-next {
+        right: -1 !important;
+        opacity: 1 !important;
+    }
+    .carousel-control-prev {
+        left: -3% !important;
+        opacity: 1 !important;
+    }
+    .flew_Row_Now_Wrap {
+        flex-wrap: nowrap !important;
+    }
+    .plr-sm-0 {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    .navbar-nav .nav-link {
+        text-align: center !important;
+    }
+    .pl-Col-Text {
+        padding-left: 21px !important;
+    }
+    .p_Sm-0 {
+        padding: 0px !important;
+    }
+    .wsnw{
+        white-space: nowrap;
+    }
+    .mt-sm-por {
+        margin: 20px 0px 0px 0px;
+    }
+    .bg_img_8 {
+        height: 440px !important;
+        width: 100%;
+    }
+    .paymentOptionForm{
+        width: 100% !important;
+    }
+    body {
+        font-size: 16px !important;
+    }
+    .m_sm-pt {
+        margin-top: 15px !important;
+    }
+    .mw-33 {
+        max-width: 100% !important;
+        margin: auto;
+    }
+    .marginL_0 {
+        margin-left: 0px !important;
+    }
+    .tab_Content {
+        margin-left: -8px;
+    }
+    .w_75 {
+        width: 75% !important;
+    }
+    .main_Tite {
+        text-align: center;
+    }
+    .download_btn {
+        padding-top: 7px !important;
+    }
+    .linear_flex {
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+    .jsc {
+        justify-content: center;
+    }
+
+    .cal-head__day,
+    .cal-body__day {
+        width: 48px;
+        height: 48px;
+    }
+    .dl-jCs {
+        display: flex !important;
+        justify-content: center !important;
+    }
+    .mw-67 {
+        max-width: 100% !important;
+    }
+    .timeHoursMain {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+    .mt_sm_20 {
+        margin-top: 20px !important ;
+    }
+    .portfolioContainer {
+        padding: 0px 15px 0px 15px !important;
+    }
+    .NextSmall {
+        right: 15px !important;
+    }
+    .h-600 {
+        height: 400px !important;
+    }
+    .nextPrevious {
+        top: 46% !important;
+    }
+    .padding-top-reg {
+        font-size: 4rem !important;
+        white-space: nowrap !important;
+    }
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+    }
+    .padding-right-reg {
+        padding-right: 2rem !important;
+    }
+    .padding-left-reg {
+        padding-left: 2rem !important;
+    }
+    .inputsImg {
+        width: 40px;
+    }
+    .logibButton {
+        font-size: 40px;
+        width: 50% !important;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .emailInput {
+        font-size: 40px;
+        padding-left: 42px;
+    }
+}
+.portfolioContainer {
+    padding: 0px;
+}

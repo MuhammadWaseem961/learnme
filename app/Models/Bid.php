@@ -1,0 +1,51 @@
+<?php
+
+namespace App\Models;
+
+use App\ServiceRequest;
+use App\User;
+use Illuminate\Database\Eloquent\Model;
+
+class Bid extends Model
+{
+    public function serviceRequest()
+    {
+        return $this->belongsTo(ServiceRequest::class);
+    }
+
+    public function specialist()
+    {
+        return $this->belongsTo(User::class,'specialist_id','id');
+    }
+
+    public function user()
+    {
+        return $this->belongsTo(User::class);
+    }
+
+    public function getStatusAttribute($attribute)
+    {
+        return [
+            '0' => 'Declined',
+            '1' => 'Approved',
+            
+        ][$attribute];
+    }
+    
+    public function getPaymentStatusAttribute($attribute)
+    {
+        return [
+            '0' => 'Pending',
+            '1' => 'Partial Paid',
+            '2' => 'Paid',
+        ][$attribute];
+    }
+
+    public function getWorkStatusAttribute($attribute)
+    {
+        return [
+            '0' => 'Un-Complete',
+            '1' => 'Completed',
+        ][$attribute];
+    }
+}
